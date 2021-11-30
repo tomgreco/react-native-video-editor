@@ -1,7 +1,7 @@
 {
   "name": "react-native-video-editor",
   "version": "0.2.0",
-  "description": "",
+  "description": "Video editing functionality",
   "repository": {
     "type": "git",
     "url": "https://github.com/tomgreco/react-native-video-editor"
